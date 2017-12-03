@@ -1,0 +1,6 @@
+user=input('Name of friend:')
+print('HAPPY BIRTHDAY TO YOU!')
+print('HAPPY BIRTHDAY TO YOU!')
+print('HAPPY BIRTHDAY TO YOU!')
+print('HAPPY BIRTHDAY TO',user)
+print('HAPPY BIRTHDAY TO YOU!')
